@@ -1,1 +1,4 @@
-ls | grep "^r" | wc -l
+
+ mkdir children_folder 
+ ls -a > list.text
+

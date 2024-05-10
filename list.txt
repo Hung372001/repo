@@ -1,0 +1,6 @@
+./
+../
+.git/
+children_folder/
+list.txt
+t.sh
