@@ -1,1 +1,2 @@
-ls -a > list.txt
+ mkdir children_folder 
+ ls -a > list.text
