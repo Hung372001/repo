@@ -1,1 +1,1 @@
-ls | wc -l
+ls -A | grep ".pdf" | wc -l
